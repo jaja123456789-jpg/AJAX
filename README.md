@@ -14,3 +14,6 @@ Después, al seleccionar una provincia deberán cargarse en el otro desplegable 
 >   - Si falla, se muestra cuántas preguntas consecutivas había contestado correctamente hasta ese momento.  
 > - La API permite configurar cantidad de preguntas, categoría y dificultad (mediante https://opentdb.com/api_config.php).  
 > - Se puede hacer una variante del juego con más de una pregunta y traducir los textos de la interfaz al español.
+
+
+
